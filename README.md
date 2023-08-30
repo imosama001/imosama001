@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohd Osama Raza aka @imosama001
-- 👀 I’m interested in ... Flutter & MERN Development
-- 🌱 I’m currently learning ...NodeJs & React
+- 👀 I’m interested in ... MERN Stack Development
+- 🌱 I’m currently working in React and Redux.
 - 💞️ I’m looking to collaborate on ... Web Development Projects
 - 📫 email : imosama001@gmail.com   Mob.: +91 8418080332
 - 👨‍💻 Portfolio : https://coruscating-lokum-ebcbe2.netlify.app/
